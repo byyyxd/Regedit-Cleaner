@@ -50,7 +50,7 @@ namespace regedit_cleaner
             {
                 Console.Clear();
                 setPosition(3, 4);
-                Console.Write(" An error occured while deleting regedits.");
+                Console.Write(" An error occured while deleting regedits. \n");
             }
 
             Console.Write("\n\n     ps: if you already used it and \n     got any error\n     this error means that it" +
