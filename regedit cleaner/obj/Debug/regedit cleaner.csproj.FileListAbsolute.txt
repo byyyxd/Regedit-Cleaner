@@ -1,0 +1,7 @@
+C:\Users\bysec\source\repos\regedit cleaner\regedit cleaner\bin\Debug\regedit cleaner.exe.config
+C:\Users\bysec\source\repos\regedit cleaner\regedit cleaner\bin\Debug\regedit cleaner.exe
+C:\Users\bysec\source\repos\regedit cleaner\regedit cleaner\bin\Debug\regedit cleaner.pdb
+C:\Users\bysec\source\repos\regedit cleaner\regedit cleaner\obj\Debug\regedit cleaner.csprojAssemblyReference.cache
+C:\Users\bysec\source\repos\regedit cleaner\regedit cleaner\obj\Debug\regedit cleaner.csproj.CoreCompileInputs.cache
+C:\Users\bysec\source\repos\regedit cleaner\regedit cleaner\obj\Debug\regedit cleaner.exe
+C:\Users\bysec\source\repos\regedit cleaner\regedit cleaner\obj\Debug\regedit cleaner.pdb
