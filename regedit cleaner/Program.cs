@@ -53,7 +53,7 @@ namespace regedit_cleaner
                 Console.Write(" An error occured while deleting regedits.");
             }
 
-            Console.Write("\n\n     ps: if you already used it and didn't\n     got any error\n     this error means that it" +
+            Console.Write("\n\n     ps: if you already used it and \n     got any error\n     this error means that it" +
                             "   couldn't find the path\n     selected, so it's not an error.\n     it just" +
                             " couldn't find cuz it already got deleted. ;)");
 
